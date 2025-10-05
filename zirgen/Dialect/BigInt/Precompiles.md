@@ -169,3 +169,5 @@ For a relatively simple real-world example of utilizing a precompile, look at ho
 
 [`zirgen/circuit/bigint/`]: https://github.com/risc0/zirgen/tree/main/zirgen/circuit/bigint
 [rustcrypto-rsa-patch]: https://github.com/risc0/RustCrypto-RSA/pull/5/files
+
+<!-- Auto-update: 2025-10-05T17:12:46.665863 -->
